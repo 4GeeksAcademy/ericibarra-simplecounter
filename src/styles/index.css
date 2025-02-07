@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contador {
+    margin: auto;
+    margin-top: 35vh;
+    font-size: 80px;
+}
